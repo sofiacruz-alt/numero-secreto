@@ -2,6 +2,7 @@
 
 <h2> ᯓ★ Sobre</h2>
 <p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
+<p>Esse projeto consiste em um jogo no qual o usuário terá que acertar um número secreto. A ideia aqui é utilizar esse projeto como uma forma de aprender lógica de programação com a linguagem JavaScript.</p>
 
 ## 💻 Tecnologias
 <div>
